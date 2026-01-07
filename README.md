@@ -11,4 +11,4 @@ Completed Day 3 of the Murf AI Voice Agents Challenge, and today I built a Healt
 I also tested it in the browser and verified JSON persistence working end-to-end.
 Excited to continue building more intelligent agents!
 
-#MurfAIVoiceAgentsChallenge #10DaysofAIVoiceAgents @Murf AI
+
